@@ -30,7 +30,7 @@ This is a desktop application for Revolt built on Electron.
 Get Revolt Desktop up and running locally.
 
 ```
-git clone https://github.com/revoltchat/desktop
+git clone https://github.com/meowpoof89/revolt-desktop desktop
 cd desktop
 yarn
 yarn build:bundle
