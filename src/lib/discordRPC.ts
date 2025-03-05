@@ -18,9 +18,9 @@ export async function connectRPC() {
                 buttons: [
                     {
                         label: "Join Revolt",
-                        url: "https://app.revolt.chat/",
+                        url: "https://app.dalorian-ceo.com/",
                     },
-                    { label: "Website", url: "https://revolt.chat" },
+                    { label: "Website", url: "https://discord.dalorian-ceo.com" },
                 ],
             }),
         );
