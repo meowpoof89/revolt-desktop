@@ -50,10 +50,10 @@ export function getBuildURL() {
 
     switch (build) {
         case "dev":
-            return "http://local.revolt.chat:3001";
+            return "http://discord.dalorian-ceo.com";
         case "nightly":
-            return "https://nightly.revolt.chat";
+            return "https://nightly.dalorian-ceo.com";
         default:
-            return "https://app.revolt.chat";
+            return "https://app.dalorian-ceo.com";
     }
 }
