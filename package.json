@@ -8,7 +8,7 @@
         "url": "https://insrt.uk",
         "email": "me@insrt.uk"
     },
-    "homepage": "https://revolt.chat",
+    "homepage": "https://discord.dalorian-ceo.com",
     "main": "bundle/main.js",
     "scripts": {
         "start": "electron .",
